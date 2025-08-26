@@ -828,8 +828,8 @@
             
             <div class="promo-banner">
                 <h3>🚀 Special Promotion! 🚀</h3>
-                <p>First 90 clients get 20% OFF all services!</p>
-                <p>Be among the first 100 clients to benefit from our AI-powered solutions!</p>
+                <p>First 100 clients get 20% OFF all services!</p>
+                <p>Be among the first 500 clients to benefit from our AI-powered solutions!</p>
             </div>
             
             <button class="cta-btn" id="services-cta">Explore Our Services</button>
